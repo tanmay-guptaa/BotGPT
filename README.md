@@ -15,7 +15,7 @@ The Chatbot named BotGPT is a web application project that shows a chatbot using
 
 The Chatbot project uses OpenAI's GPT-3.5-turbo model to create a chatbot that can have text-based conversations with users. The chatbot UI consists of a chatbox where user messages and chatbot responses are displayed. Users can enter their prompts in the chat input text area and submit them either by pressing "Enter" or clicking the send button. The chatbot will then generate responses based on the user's input and display them in the chatbox.
 
-![Untitledg](https://github.com/tanmay-guptaa/BotGPT/assets/119430497/f1c4a809-37b2-456b-b8a1-5091b388b867)  ![Untitledww](https://github.com/tanmay-guptaa/BotGPT/assets/119430497/c106defe-2f28-49ac-9e6a-a68e3832c9cb)
+![Untitledg](https://github.com/tanmay-guptaa/BotGPT/assets/119430497/f1c4a809-37b2-456b-b8a1-5091b388b867)![Untitledww](https://github.com/tanmay-guptaa/BotGPT/assets/119430497/c106defe-2f28-49ac-9e6a-a68e3832c9cb)
 
 
 
