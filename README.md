@@ -73,3 +73,6 @@ Contributions to the Chatbot project are welcome and encouraged! If you have any
 **NOTE:** Please note that this project requires an API key from OpenAI to work correctly. Make sure to obtain an API key and replace the 
    value of the API_KEY variable in the "script.js" file before running the project. If you don't use the API Key it will give you this 
    reply "Something went wrong. Please try again!" and a 404 error at the console.
+
+View Demo:
+https://chattbotgpt.netlify.app/
